@@ -2,9 +2,11 @@
 
 The goal of this kata is to compute the score of a bowling game.
 
-As an input, we'll receive the number of pins knocked down for each frame.
+As an input, we'll receive the number of pins knocked down for each frame. For this kata, we'll assume that the input is valid (no check needed)
 
 As an output, we'll compute the score for the 10 frames.
+
+
 
 
 For details about bowling rules and how to compute the score, please have a look at:
